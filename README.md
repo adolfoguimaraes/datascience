@@ -13,4 +13,4 @@
 8. [Aprendizado Não-Supervisionado - Clusterização 1](code/08_laboratorio_clusterizacao.ipynb)
 9. [Aprendizado Não-Supervisionado - Clusterização 2](code/09_laboratorio_clusterizacao2.ipynb)
 10. [Aprendizado Não-Supervisionado - Clusterização 3](code/10_laboratorio_clusterizacao3.ipynb)
-5. [Base de Dados utilizadas](datasets/)
+11. [Base de Dados utilizadas](datasets/)
