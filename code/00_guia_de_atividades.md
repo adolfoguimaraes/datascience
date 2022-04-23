@@ -1,6 +1,6 @@
 # Guia de Atividades do Repositório 
 
-Os notebooks consistem de uma série de exemplos que aplica conceitos relacionados à data science e machine learning. Neste documento, organizo as atividades que estão presente nos notebooks como um guia para quem deseja executá-las. 
+Os notebooks consistem de uma série de exemplos de aplicação dos conceitos relacionados à data science e machine learning. Neste documento, organizo as atividades que estão presente nos notebooks como um guia para quem deseja executá-las. 
 
 1. No Laboratório de [Regressão Linear](03_laboratorio_regressao_linear.ipynb) é sugerido algumas atividades de análise dos resultados obtivos: correlação entre os atributos e análise da diferença de resultado entre a regressão linear simples e a linear múltipla. Além disso, é pedido que execute o modelo de regressão apenas com os atributos TV e Rádio e analise qual o impacto disso na qualidade do modelo criado. 
 
